@@ -45,7 +45,7 @@ with st.sidebar:
     st.header("⚙️ Настройки города")
     
     # Автоматическая загрузка словаря
-    DICT_PATH = "/Users/valeriapigarina/Downloads/города_россии_epsg_qgis.xlsx" 
+    DICT_PATH = "города_россии_epsg_qgis.xlsx"
     
     # Дежурный словарь на случай, если файл не найдется
     known_cities = {
