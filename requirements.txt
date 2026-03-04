@@ -5,3 +5,4 @@ networkx
 shapely
 pandas
 openpyxl
+scipy
